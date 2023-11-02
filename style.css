@@ -1,0 +1,10 @@
+
+body {
+    color: white;
+    background-color: #35393b;
+}
+
+#input-entry{
+    appearance: none;
+    background-color: rgb(70, 214, 202);
+}
